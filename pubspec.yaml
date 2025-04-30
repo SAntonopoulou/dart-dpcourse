@@ -1,0 +1,15 @@
+name: dpcourse
+description: Exercises for a design pattern course
+version: 1.0.0
+repository: https://dev.santonopoulou.com/SAntonopoulou/dart-dpcourse.git
+
+environment:
+  sdk: ^3.7.0
+
+# Add regular dependencies here.
+dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
