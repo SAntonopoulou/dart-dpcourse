@@ -1,8 +1,8 @@
-import 'package:dpcourse/ex06/command_undoable.dart';
-import 'package:dpcourse/ex06/command.dart';
-import 'package:dpcourse/ex06/editor.dart';
-import 'package:dpcourse/ex06/history.dart';
-import 'package:dpcourse/ex06/video.dart';
+import 'package:dpcourse/behaviour/command/command_undoable.dart';
+import 'package:dpcourse/behaviour/command/command.dart';
+import 'package:dpcourse/behaviour/command/editor.dart';
+import 'package:dpcourse/behaviour/command/history.dart';
+import 'package:dpcourse/behaviour/command/video.dart';
 
 class MacroCommand implements UndoableCommand {
 	List<Command> _commands = [];

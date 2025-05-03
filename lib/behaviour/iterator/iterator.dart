@@ -1,7 +1,7 @@
 import 'dart:io';
 
-import 'package:dpcourse/ex03/iterator_interface.dart';
-import 'package:dpcourse/ex03/iterable.dart';
+import 'package:dpcourse/behaviour/iterator/iterator_interface.dart';
+import 'package:dpcourse/behaviour/iterator/iterable.dart';
 
 void main() {
 	CustomIterable iterable = CustomIterable();

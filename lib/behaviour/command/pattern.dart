@@ -1,13 +1,13 @@
-import 'package:dpcourse/ex06/video.dart';
-import 'package:dpcourse/ex06/editor.dart';
-import 'package:dpcourse/ex06/command.dart';
-import 'package:dpcourse/ex06/command_contrast.dart';
-import 'package:dpcourse/ex06/command_label.dart';
-import 'package:dpcourse/ex06/command_macro.dart';
-import 'package:dpcourse/ex06/command_invoker.dart';
-import 'package:dpcourse/ex06/history.dart';
-import 'package:dpcourse/ex06/command_undoable.dart';
-import 'package:dpcourse/ex06/command_undo.dart';
+import 'package:dpcourse/behaviour/command/video.dart';
+import 'package:dpcourse/behaviour/command/editor.dart';
+import 'package:dpcourse/behaviour/command/command.dart';
+import 'package:dpcourse/behaviour/command/command_contrast.dart';
+import 'package:dpcourse/behaviour/command/command_label.dart';
+import 'package:dpcourse/behaviour/command/command_macro.dart';
+import 'package:dpcourse/behaviour/command/command_invoker.dart';
+import 'package:dpcourse/behaviour/command/history.dart';
+import 'package:dpcourse/behaviour/command/command_undoable.dart';
+import 'package:dpcourse/behaviour/command/command_undo.dart';
 
 void main() {
 	History history = History();

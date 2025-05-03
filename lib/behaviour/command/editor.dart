@@ -1,5 +1,5 @@
-import 'package:dpcourse/ex06/video.dart';
-import 'package:dpcourse/ex06/command.dart';
+import 'package:dpcourse/behaviour/command/video.dart';
+import 'package:dpcourse/behaviour/command/command.dart';
 
 class Editor {
 	final Video _video;

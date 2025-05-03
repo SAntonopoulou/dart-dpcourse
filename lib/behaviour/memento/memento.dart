@@ -1,8 +1,8 @@
 import 'dart:io';
 
-import 'package:dpcourse/ex01/document_state.dart';
-import 'package:dpcourse/ex01/history.dart';
-import 'package:dpcourse/ex01/document.dart';
+import 'package:dpcourse/behaviour/memento/document_state.dart';
+import 'package:dpcourse/behaviour/memento/history.dart';
+import 'package:dpcourse/behaviour/memento/document.dart';
 
 void main() {
 	History history = History();

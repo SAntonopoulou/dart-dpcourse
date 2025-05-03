@@ -1,4 +1,4 @@
-import 'package:dpcourse/ex06/command_undoable.dart';
+import 'package:dpcourse/behaviour/command/command_undoable.dart';
 
 class History {
 	List<UndoableCommand> _commands = [];

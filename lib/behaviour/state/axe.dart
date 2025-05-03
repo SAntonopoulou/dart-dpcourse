@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:dpcourse/ex02/attack.dart';
+import 'package:dpcourse/behaviour/state/attack.dart';
 
 class Axe implements AttackItem {
 	@override

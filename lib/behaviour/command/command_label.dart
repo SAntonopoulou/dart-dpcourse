@@ -1,5 +1,5 @@
-import 'package:dpcourse/ex06/command.dart';
-import 'package:dpcourse/ex06/editor.dart';
+import 'package:dpcourse/behaviour/command/command.dart';
+import 'package:dpcourse/behaviour/command/editor.dart';
 
 class LabelCommand implements Command {
 	final String _label;

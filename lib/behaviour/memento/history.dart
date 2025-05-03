@@ -1,4 +1,4 @@
-import 'package:dpcourse/ex01/document_state.dart';
+import 'package:dpcourse/behaviour/memento/document_state.dart';
 
 class History {
 	List<DocumentState> _states = [];

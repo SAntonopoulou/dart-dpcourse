@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:dpcourse/ex04/interface.dart';
+import 'package:dpcourse/behaviour/strategy/interface.dart';
 
 class ConcreteTwo implements StrategyInterface {
 	@override

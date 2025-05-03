@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:dpcourse/ex01/document_state.dart';
+import 'package:dpcourse/behaviour/memento/document_state.dart';
 
 class Document {
 	String _content = '';

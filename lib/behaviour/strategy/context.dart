@@ -1,4 +1,4 @@
-import 'package:dpcourse/ex04/interface.dart';
+import 'package:dpcourse/behaviour/strategy/interface.dart';
 
 class Context {
 	void operate(String thing, StrategyInterface strategy) {

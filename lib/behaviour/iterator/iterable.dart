@@ -1,4 +1,4 @@
-import 'package:dpcourse/ex03/iterator_interface.dart';
+import 'package:dpcourse/behaviour/iterator/iterator_interface.dart';
 
 class CustomIterable {
 	List<String> content = ["One", "Two", "Three", "Four"];

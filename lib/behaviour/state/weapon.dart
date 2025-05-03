@@ -1,4 +1,4 @@
-import 'package:dpcourse/ex02/attack.dart';
+import 'package:dpcourse/behaviour/state/attack.dart';
 
 class Weapon {
 	AttackItem _currentWeapon;

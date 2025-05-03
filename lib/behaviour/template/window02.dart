@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:dpcourse/ex05/window_interface.dart';
+import 'package:dpcourse/behaviour/template/window_interface.dart';
 
 class WindowTwo extends WindowTemplate {
 	@override
